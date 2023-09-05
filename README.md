@@ -4,7 +4,7 @@
 
 ### Check out the results in the result folders
 
-## How to tun this?
+## How to run this?
 ### 1. Download the notebook 
 ### 2. Run it 
 ### 3. Follow the instructions in the notebook carefully
